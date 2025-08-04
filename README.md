@@ -1,5 +1,5 @@
-## Hi there 👋
-
+# About Me
+*Data Scientist with experience in Python, machine learning, and healthcare data analytics.*
 <!--
 **cnsyverson/cnsyverson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
